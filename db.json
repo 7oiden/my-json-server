@@ -16,13 +16,13 @@
   "contacts": [
     {
       "id": 1,
-      "name": "Tommy"
+      "name": "Tommy",
       "body": "some comment",
       "postId": 1
     },
     {
       "id": 2,
-      "name": "John"
+      "name": "John",
       "body": "another comment",
       "postId": 1
     }
